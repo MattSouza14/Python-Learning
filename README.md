@@ -27,7 +27,7 @@ A estrutura do repositório é organizada da seguinte maneira:
 
 Sinta-se à vontade para contribuir com este repositório, seja com exemplos, correções ou sugestões de melhoria. Para isso, siga as boas práticas de Git e GitHub.
 
-## Contato
+## Contato:
+- [Linkedin]((https://www.linkedin.com/in/mateus-souzaa/))
 
-Se tiver alguma dúvida ou sugestão, você pode entrar em contato através das issues ou diretamente via e-mail.
 
