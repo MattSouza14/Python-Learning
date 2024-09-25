@@ -45,7 +45,7 @@ while True:
 # A instrução continue é utilizada para pular o restante do bloco de código dentro de um loop 
 # e passar para a próxima iteração.
 
-for i in range(10):
+for i in range(2,15):
 
     if i % 2 == 0:
         continue
