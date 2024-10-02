@@ -1,0 +1,3 @@
+Code	Nome	Quant	Preco 
+1234	arroz	8	5.55
+7896	feijao	8	5.68
